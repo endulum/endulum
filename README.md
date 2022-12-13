@@ -1,4 +1,14 @@
-### Hi there 👋
+### My Journey through The Odin Project
+>#### Basic HTML
+>- [Recipes](https://endulum.github.io/odin-recipes/)
+>- [Landing Page](https://endulum.github.io/odin-landing/)
+>#### Basic Javascript
+>- [Rock, Paper, Scissors](https://endulum.github.io/odin-rckpprscssrs/)
+>- [Etch-A-Sketch](https://endulum.github.io/odin-etchasketch/)
+>- [Calculator](https://endulum.github.io/odin-calculator/)
+>#### Advanced HTML
+>- Sign-up Form (Work in progress!)
+
 
 <!--
 **endulum/endulum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
