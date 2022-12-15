@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endulum&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My Journey through The Odin Project
 >#### Basic HTML
 >- [Recipes](https://endulum.github.io/odin-recipes/)
@@ -9,7 +11,6 @@
 >#### Advanced HTML
 >- [Sign-up Form](https://endulum.github.io/odin-signup/)
 >- Admin Dashboard (coming soon)
-
 
 <!--
 **endulum/endulum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
