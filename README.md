@@ -11,6 +11,8 @@
 >#### Advanced HTML
 >- [Sign-up Form](https://endulum.github.io/odin-signup/)
 >- Admin Dashboard (coming soon)
+>#### Javascript Pathway
+>- [Library](https://endulum.github.io/odin-library/)
 
 <!--
 **endulum/endulum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
